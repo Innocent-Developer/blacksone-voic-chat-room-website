@@ -1,6 +1,6 @@
 # Black Stone Voice Chat Room
 
-![Black Stone Screenshot](https://i.imgur.com/JKvQx8H.png)
+![Black Stone Screenshot](https://res.cloudinary.com/dha65z0gy/image/upload/v1750568548/banners/g8682gvbhfutdriyrysw.jpg)
 
 A modern, animated landing page for the Black Stone Voice Chat Room application featuring global text, voice, and video chat capabilities.
 
