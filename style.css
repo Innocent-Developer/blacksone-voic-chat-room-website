@@ -640,6 +640,11 @@
       font-size: 0.9rem;
       opacity: 0.7;
       margin-top: 2rem;
+      >a{
+        color: #f5f6fa;
+        text-decoration: none;
+        /* font-size: ; */
+      }
     }
     
     /* Animations */
